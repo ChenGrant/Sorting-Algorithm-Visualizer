@@ -1,5 +1,0 @@
-Description: This project visualizes selection, insertion, bubble, and merge sort and displays their respective best, average, and worst time complexity.  
-
-Technologies Used: Java
-
-Date Created: May 2021
